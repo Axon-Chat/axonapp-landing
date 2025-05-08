@@ -48,8 +48,8 @@ To get the landing page up and running locally, follow these steps:
     # or
     yarn dev
     ```
-    This will start the Vite development server, and you can view the landing page in your browser, usually at `http://localhost:5173`.
-
+    This will start the Vite development server, and you can view the landing page in your browser, usually at `http://localhost:8080` for this project.
+    
 4.  **Build for production:**
     ```bash
     npm run build
